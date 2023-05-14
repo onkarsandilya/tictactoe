@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">check1</string>
+    <string name="space_6">space 6</string>
+    <string name="space_1">space 1</string>
+    <string name="space_2">space 2</string>
+    <string name="space_3">space 3</string>
+    <string name="space_4">space 4</string>
+    <string name="space_5">space 5</string>
+    <string name="space_7">space 7</string>
+    <string name="space_8">space 8</string>
+    <string name="space_9">space 9</string>
+    <string name="reset">Reset</string>
+    <string name="welcome_to_tic_tac_toe">Welcome to Tic Tac Toe</string>
+</resources>
